@@ -1,5 +1,21 @@
 To run the project
 
+1.
+create myworld folder
+inside that 
+myworld/src/Footer.js
+myworld/src/Login.js
+myworld/src/UserPage.js
+myworld/src/PrivateRoute.js
+myworld/src/Form.js
+
+
+2.
+create public folder
+inside that
+myworld/public/index.html
+
+
 To run Backend
 
 1.cd Backend
